@@ -1,0 +1,29 @@
+body {
+  background-color: #FFB200 ;
+  text-align: center;
+}
+
+header {
+  color: #FFF4CF;
+}
+h1{
+  color: #277BC0;
+}
+
+input {
+  padding: 3px;
+  margin-bottom: 10px;
+}
+
+.btn_delete {
+  margin: 10px;
+}
+.corrected {
+  margin: 15px;
+}
+
+
+.done {
+  background-color: #FFCB42;
+  text-decoration: line-through;
+}
